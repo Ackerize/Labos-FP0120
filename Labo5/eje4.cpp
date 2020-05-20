@@ -6,6 +6,10 @@ while ( condición_a_evaluar ) {
 
 //Factorial de n = n*(n-1)*(n-2)*(n-3)...
 
+/* Ejemplo Factorial de 5:
+    5! = 5*4*3*2*1 = 120
+*/
+
 //Programa que calcule el factorial de un numero
 
 #include <iostream>
