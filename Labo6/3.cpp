@@ -36,5 +36,6 @@ float incerteza(float vector[], int n){
         suma += pow((resta), 2);
     }
     resultado = suma / (n - 1);
+    resultado = sqrt(resultado);
     return resultado;
 }
